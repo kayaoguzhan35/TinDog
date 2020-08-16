@@ -3,7 +3,7 @@ body{
 }
 
 h1{
-  font-family: 'Montserrat-Black', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 3rem;
   line-height: 1.75;
   font-weight: 400;
@@ -45,7 +45,6 @@ p{
 #title{
   background-color: #FF4C68;
   color: white;
-  height: 87vh;
 }
 
 
