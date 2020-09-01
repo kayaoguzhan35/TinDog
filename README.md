@@ -1,1 +1,1 @@
-TinDog Starting Files
+https://kayaoguzhan35.github.io/TinDog/
